@@ -1,0 +1,5 @@
+ISA
+IS
+CAN
+HAS
+NEEDS
