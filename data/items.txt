@@ -5,7 +5,7 @@ Sunflower
 Hummingbird
 Owl
 Goldfish
-Octupus
+Octopus
 Horse
 Dog
 Car
